@@ -1,0 +1,4 @@
+scrapetube~=2.5.1
+pytube~=15.0.0
+moviepy
+Random-Word
